@@ -21,6 +21,36 @@ Tener en cuenta que una experiencia es recordada principalmente por el punto de 
 El Proyecto se desarrollará mediante la metodología de Design Thinking de doble diamante
 ![github-small](https://github.com/SegamanDI/ServiceDesign/blob/master/Screen%20Shot%202019-05-15%20at%201.40.01%20PM.png)
 
+Trabajarás en squads para la ejecución y el proyecto se divide en una demo intermedia y en la presentación final.
+Para la Demo Intermedia el alcance esperado es:
+
+|Actividad|Observaciones|
+|:----|:----|
+|4W´s||
+|Stakeholders Map|Involucrados con la experiencia del cajero en todos los canales|
+|Observación Contextual|Ir a un ATM|
+|Entrevistas|Realizar previamente la Guía de Entrevistas|
+|Empathy Map||
+|Dos User Persona||
+|Dos Journey Map|Uno por User Persona|
+
+Deberás leer sobre temas como Human Centered Design, Double Diamond Design Thinking, Service Desig y Arquetipos.
+
+
+Para la Demo Intermedia el alcance esperado es:
+
+|Actividad|Observaciones|
+|:----|:----|
+|How Might We||
+|Desarrollo de Ideas|Parking lot, Brainstorming|
+|SCAMPER||
+|Prototipado|Service scenario, storyboard, juegos de rol|
+|Canvas de Propuesta de Valor||
+|Service Blueprints||
+|Presentación|Pitch de 10 Slides|
+
+## Evaluación
+La evaluación y feedback será hecho por especialistas en el área de Service Design que trabajan en instituciones financieras.
 
 
 
