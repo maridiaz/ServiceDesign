@@ -18,8 +18,8 @@ Definir los "Touchpoints" en el proceso, como es que el usuario se involucra en 
 Tener en cuenta que una experiencia es recordada principalmente por el punto de dolor más alto durante su desarrollo así como por el resultado de la misma, ya sea positiva o negativa.
 
 ## Desarrollo del Proyecto
-El Proyecto se desarrollará mediante la metodología de Design Thinking de doble diamante, 
-![Doble Diamante][img url:https://github.com/SegamanDI/ServiceDesign/blob/master/Screen%20Shot%202019-05-15%20at%201.40.01%20PM.png]
+El Proyecto se desarrollará mediante la metodología de Design Thinking de doble diamante
+![github-small](https://github.com/SegamanDI/ServiceDesign/blob/master/Screen%20Shot%202019-05-15%20at%201.40.01%20PM.png)
 
 
 
