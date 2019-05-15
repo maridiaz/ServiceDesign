@@ -19,7 +19,7 @@ Tener en cuenta que una experiencia es recordada principalmente por el punto de 
 
 ## Desarrollo del Proyecto
 El Proyecto se desarrollará mediante la metodología de Design Thinking de doble diamante, 
-[img url:https://github.com/SegamanDI/ServiceDesign/blob/master/Screen%20Shot%202019-05-15%20at%201.40.01%20PM.png]
+![Doble Diamante](img url:https://github.com/SegamanDI/ServiceDesign/blob/master/Screen%20Shot%202019-05-15%20at%201.40.01%20PM.png)
 
 
 
