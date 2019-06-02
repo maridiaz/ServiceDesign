@@ -59,11 +59,11 @@ En la fase de Ideación para la propuesta de resolución de problema:
 
 ## Prototipo
 **Simulacro (baja fidelidad)**: propuesta hecha con lápiz en papel para simular la información que aparece en la pantalla de un cajero automático, elaboración y redacción de un ticket de reporte, un cartel y un teléfono ordenados. En el  prototipo se recurrió a una técnica mix de think aloud y walkthrough,  fue testeado con 7 personas. 
-![prototipo](Test1/IMG_6496.jpg) 
-![prototipo](Test1/IMG_6501.jpg) 
+![test](Test1/IMG_6496.jpg) 
+![test](Test1/IMG_6501.jpg) 
 
 Una integrante del squad ponía en contexto al usuario, acompañó paso a paso del journey map al usuario a la vez que realizaba preguntas abiertas como “¿tú qué harías?” para lograr un diálogo profundo en donde las respuestas serían clave para iterar y encaminar la reestructura de la propuesta a la solución.
-![prototipo](Test1/IMG_6534.jpg) 
+![test](Test1/IMG_6534.jpg) 
 
 **Interactivo (Adobe XD, Marvel)**: después de iterar y corregir errores de mensaje, del flujo de navegación, etc. se plasmaron las ideas de bocetos a un prototipo de alta fidelidad por medio de Adobe XD y Marvel. De igual manera, se utilizaron las técnicas de think aloud y walkthrough.
 Cabe mencionar que hay evidencias -fotografías y anotaciones- del testeo y las iteraciones realizadas.
@@ -81,16 +81,18 @@ Cabe mencionar que hay evidencias -fotografías y anotaciones- del testeo y las 
 2. Tickets de reporte de problemas
 ![prototipo](propuesta/ticket.png) 
 3. Revisar el estado del reporte desde la app móvil.
+
 ![prototipo](Prototipo/iPhone4.png)
 ![prototipo](Prototipo/iPhone5.png)
-5. Realizar levantamiento de reporte desde la página web.
+
+4. Realizar levantamiento de reporte desde la página web.
 ![prototipo](Prototipo/web1.png
 ![prototipo](Prototipo/web4.png))
-4. Carteles en sucursales
+5. Carteles en sucursales
 ![prototipo](propuesta/cartel.png) 
-5. Protocolo para personal de atención telefónica
+6. Protocolo para personal de atención telefónica
 ![prototipo](propuesta/protocolo.png)
-6. Vídeo mostrando la solución: https://youtu.be/FjI1-xTmI34 
+7. Vídeo mostrando la solución: https://youtu.be/FjI1-xTmI34 
 
 
 
