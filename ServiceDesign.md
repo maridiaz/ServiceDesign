@@ -78,14 +78,19 @@ Cabe mencionar que hay evidencias -fotografías y anotaciones- del testeo y las 
 ![prototipo](Prototipo/10.png) 
 ![prototipo](Prototipo/11.png) 
 ![prototipo](Prototipo/13.png)
-
 2. Tickets de reporte de problemas
 ![prototipo](propuesta/ticket.png) 
-3. Carteles en sucursales
+3. Revisar el estado del reporte desde la app móvil.
+![prototipo](Prototipo/iPhone4.png)
+![prototipo](Prototipo/iPhone5.png)
+5. Realizar levantamiento de reporte desde la página web.
+![prototipo](Prototipo/web1.png
+![prototipo](Prototipo/web4.png))
+4. Carteles en sucursales
 ![prototipo](propuesta/cartel.png) 
-4. Protocolo para personal de atención telefónica
+5. Protocolo para personal de atención telefónica
 ![prototipo](propuesta/protocolo.png)
-5. Vídeo mostrando la solución: https://youtu.be/FjI1-xTmI34 
+6. Vídeo mostrando la solución: https://youtu.be/FjI1-xTmI34 
 
 
 
