@@ -1,7 +1,10 @@
 # Service Design: Citibanamex
-El objetivo del proyecto es rediseñar la experiencia de servicio en cajeros automáticos para instituciones financieras.
-
 De acuerdo a Nielsen Norman Group, Service Design se entiende como la actividad de planear y organizar los recursos del negocio; entendiendo estos como las personas, los procesos y accesorios, con el objetivo de mejorar directamente la experiencia del empleado e indirectamente la experiencia del consumidor.
+
+La consultoría, Touchpoints México, entregó el reto de mejorar el servicio de cajeros automáticos de alguna institución financiera de México.El objetivo del proyecto es rediseñar la experiencia de servicio en cajeros automáticos para instituciones financieras.
+
+
+A través de la herramienta doble diamante, se identificó entre los usuarios de ATM que la principal queja era la falta de entrega de efectivo. Durante el proceso identificamos que los usuarios siempre buscan de un contacto humano para dar seguimiento a su problemática. La propuesta de rediseño está enfocada en cinco touchpoints, rediseñar la interfaz del cajero para generar un reporte del problema, brindar un ticket o comprobante donde indiqué que el cajero presentó el problema, elaborar un cartel informativo sobre dar seguimiento vía telefónica y el cual se ubicará en la zona de cajeros. También se elaboró un script del diálogo que el operador de call center deberá de decir, y en la aplicación colocamos la opción de conocer el estatus del reporte. 
 
 ## Hallazgos
 De acuerdo al portal https://downdetector.mx/problemas/banamex/mapa/, se muestra el mapa de fallos de los bancos en México, siendo Citibanamex quien más fallos presenta. 
@@ -24,6 +27,7 @@ Los resultado fueron los siguientes.
 9. Problemas con el cajero ATM: la limpieza, el cobro de comisiones, la insufciencia de cajeros con servicio y la cantidad mínima a retirar. 
 10. Características de un cajero ideal: que siempre tenga dinero, que no queden fuera de servicio, que sí entreguen el dinero solicitado.
 
+
 ## Técnicas y herramientas de investigación, ideación y prototipado
 * **Investigación**: lectura y documentación sobre la situación bancaria en México, revisión de páginas web de bancos como citibanamex, Santander y BBVA Bancomer.
 * **Benchmark**: comparación de páginas web, aplicaciones, funcionamiento y estructura de cajeros automáticos de bancos como citibanamex, Santander y BBVA Bancomer con el fin de saber qué era lo que estaban haciendo bien y cuáles serían las áreas de oportunidad de cada uno.
@@ -32,6 +36,16 @@ Los resultado fueron los siguientes.
 * **Entrevistas**: se eligieron 6 perfiles, 3 personas digitales y 3 no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
 * **Mapa de empatía**: nos ayudó a entender mejor al cliente a través de un conocimiento más profundo del mismo, su entorno y sus necesidades como usuario de cajeros automáticos.
 * **User persona**: 2 perfiles con base en personajes imaginarios creados para representar los diferentes tipos de usuarios que podrían usar el servicio de un banco a través de un sitio web, una app o un cajero automático. Cada user persona contiene las motivaciones, frustraciones, actividades o rutinas, necesidades, pensamientos, rangos de edad, razones de usar cajeros automáticos, etc.
+
+* Motivaciones
+1. Encontrar personal que le ayude a efectuar operaciones o aclarar dudas.
+Busca que sus retiros sean seguros
+
+* Frustraciones
+1. Falta de personal que le ayude a realizar una operación.
+2. Desconocimiento del proceso para recuperar su dinero cuando hay una falla en el ATM.
+3. Los bancos no se hacen responsables por las fallas. 
+
 * **4w’s**: las preguntas (qué, quién, cuándo y por qué) sirvieron para confirmar quién era la persona que “sufría” y en qué momento del uso del servicio ocurría. Los cuestionamientos también ayudaron a pensar en los posibles actores para elaborar el mapa de stakeholders.
 * **5 porqués**: serie de cuestionamientos en cadena que ayudaron a explorar consecuencias y las posibles causas de la problemática planteada. 
 * **Mapa de stakeholders**: en este punto, el mapeo de los grupos de interés no fue planteado desde la organización sino desde el usuario, en este caso el tarjetahabiente. Como resultado, el mapa incluyó a los actores con los que el usuario podría interactuar en cualquier punto del journey map durante el uso del servicio. 
@@ -51,10 +65,10 @@ En la fase de Ideación para la propuesta de resolución de problema:
 * **Jerarquización de la información**: orden de pensamientos de acuerdo a la importancia, lo esencial y lo extremo, lo funcional, lo usable y lo wow. 
 
 
-## Insights
+## Insight
+El insight encontrado y que fue crucial para la propuesta fue:
 * Las personas buscan el contacto humano para aclarar sus dudas sobre el proceso generado, de este modo disminuyen sus niveles de incertidumbre sobre el estatus de su queja.
-* Las personas requieren del contacto humano para aclarar sus dudas para tranquilizarse con un seguimiento de parte del banco y un cierre efectivo.
-* Las personas buscan comunicarse con otra persona para tener la certidumbre sobre el proceso generado.
+* Las personas buscan comunicarse con otra persona para tener la certidumbre sobre el proceso generado y así poder tranquilizarse.
 
 
 ## Prototipo
@@ -73,24 +87,39 @@ Cabe mencionar que hay evidencias -fotografías y anotaciones- del testeo y las 
 **User test analysis canvas**: los resultados permitieron comprobar si se cumplió el objetivo de cada tarea, los obstáculos y facilitadores. Se documentaron las observaciones como feedback para iterar el prototipo de baja fidelidad, así como también formaron parte de los hallazgos para considerar áreas de oportunidad que no estábamos considerando hasta el momento previo al testeo.
 
 ## Propuestas visuales
-1. Solución desde los cajeros ATM
+1. **Solución desde los cajeros ATM**
+El principal punto de contacto que tienen los usuarios con el problema es la interfaz del cajero. Citibanamex no cuenta en los ATM con una sección en donde el  usuario pueda reportar los problemas que tiene con este. En el momento en el que el cajero indique que la transacción es exitosa y da la opción de hacer o no otra operación, colocamos un botón para hacer un reporte. Al dar clic se despliegan los problemas que se pueden reportar, en este caso el hecho de de que el ATM no entregó el dinero. 
+
+El mensaje del reporte involucra, el número de reporte, la información de que el problema será resuelto de 24 a 72 horas, para tranquilizar al usuario de que el banco admite que hay un problema y la solución sí se efectuará. Para tener un comprobante de lo sucedido se da la opción de imprimir el ticket (pensado para las personas no digitales) o que la notificación sea enviada a la aplicación móvil o mensaje sms (dirigido a las personas digitales). Buscamos que desde el primer momento en que ocurrió el problema, el usuario sepa qué ocurrió y no es necesario generar otro reporte. 
+
 ![prototipo](Prototipo/9.png) 
 ![prototipo](Prototipo/10.png) 
 ![prototipo](Prototipo/11.png) 
 ![prototipo](Prototipo/13.png)
-2. Tickets de reporte de problemas
-![prototipo](propuesta/ticket.png) 
-3. Revisar el estado del reporte desde la app móvil.
 
+2. **Tickets de reporte de problemas**
+El ticket que será otorgado a los usuarios contiene el número de reporte, el problema, fecha y hora, ID del cajero e ubicación del ATM. Además, con el objetivo de educar a las personas sobre los puntos en los que puede pedir ayuda ante un problema, se incluyó en la parte inferior los contactos para conocer el estatus de su reporte.  También se busca dar una mejor personalización al ticket. 
+Sin embargo, las personas buscan un segundo contacto para validar la información y conocer el estatus del mismo, para ello generamos las siguientes opciones.
+![prototipo](propuesta/ticket.png) 
+
+3. **Revisar el estado del reporte desde la app móvil**
+Citibanamex cuenta con una aplicación móvil; para aprovechar este canal integramos en la sección de ayuda el apartado “Estado de reporte” en donde el usuario tiene la posibilidad de conocer el estado de resolución. También podrá recibir alertas de cuando el efectivo ya esté disponible en su cuenta. 
 ![prototipo](Prototipo/iPhone4.png)
 ![prototipo](Prototipo/iPhone5.png)
 
-4. Realizar levantamiento de reporte desde la página web.
+4. **Realizar levantamiento de reporte desde la página web**
+La página web de Citibanamex presenta inconsistencias en cuanto a nombre de botones y contenido, se propone que desde la opción de "Cajeros" y "mantenimiento en ATM" los usuarios puedan saber qué hacer.
 ![prototipo](Prototipo/web1.png
 ![prototipo](Prototipo/web4.png))
-5. Carteles en sucursales
+
+5. **Carteles en sucursales**
+Apoyo visual en cajeros automáticos para informar a los tarjetahabientes qué hacer en caso de tener un problema con el cajero. De manera breve y concisa el cartel indica los pasos a seguir: tener el ticket de reporte, el número a dónde marcar y/o utilizar los canales alternos como la app móvil y la página web.
 ![prototipo](propuesta/cartel.png) 
-6. Protocolo para personal de atención telefónica
+6. **Protocolo para personal de atención telefónica**
+Los usuarios buscan tener un contacto vía telefónica para aclarar sus dudas, por tal motivo es importante brindar el mejor servicio a cliente. Para ello propusimos un protocolo de atención telefónica para las personas que laboran en el call center de Citibanamex. 
+Asimismo, se elaboró un script de la forma en que deben de dar seguimiento, explicando el porqué del problema y aceptando la responsabilidad de lo ocurrido. 
+Para agilizar el reporte solo se le solicitará al usuario tres datos para verificar su identidad; nombre completo, número de reporte y cantidad que se iba a retirar. 
+
 ![prototipo](propuesta/protocolo.png)
 7. Vídeo mostrando la solución: https://youtu.be/FjI1-xTmI34 
 
