@@ -109,8 +109,8 @@ Citibanamex cuenta con una aplicación móvil; para aprovechar este canal integr
 
 4. **Realizar levantamiento de reporte desde la página web**
 La página web de Citibanamex presenta inconsistencias en cuanto a nombre de botones y contenido, se propone que desde la opción de "Cajeros" y "mantenimiento en ATM" los usuarios puedan saber qué hacer.
-![prototipo](Prototipo/web1.png
-![prototipo](Prototipo/web4.png))
+![prototipo](Prototipo/web1.png)
+![prototipo](Prototipo/web4.png)
 
 5. **Carteles en sucursales**
 Apoyo visual en cajeros automáticos para informar a los tarjetahabientes qué hacer en caso de tener un problema con el cajero. De manera breve y concisa el cartel indica los pasos a seguir: tener el ticket de reporte, el número a dónde marcar y/o utilizar los canales alternos como la app móvil y la página web.
