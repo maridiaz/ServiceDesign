@@ -81,7 +81,7 @@ Una integrante del squad ponía en contexto al usuario, acompañó paso a paso d
 
 **Interactivo (Adobe XD, Marvel)**: después de iterar y corregir errores de mensaje, del flujo de navegación, etc. se plasmaron las ideas de bocetos a un prototipo de alta fidelidad por medio de Adobe XD y Marvel. De igual manera, se utilizaron las técnicas de think aloud y walkthrough.
 Cabe mencionar que hay evidencias -fotografías y anotaciones- del testeo y las iteraciones realizadas.
-![prototipo](Prototipo/9.png) 
+![prototipo](Prototipo/1.png) 
 
 **User test planning canvas**: ayudó a planificar cómo sería el testeo con los usuarios y qué actividades se le pedirían que realizara; asimismo, se consideraron las métricas de éxito y los elementos a observar. 
 **User test analysis canvas**: los resultados permitieron comprobar si se cumplió el objetivo de cada tarea, los obstáculos y facilitadores. Se documentaron las observaciones como feedback para iterar el prototipo de baja fidelidad, así como también formaron parte de los hallazgos para considerar áreas de oportunidad que no estábamos considerando hasta el momento previo al testeo.
@@ -122,6 +122,7 @@ Para agilizar el reporte solo se le solicitará al usuario tres datos para verif
 
 ![prototipo](propuesta/protocolo.png)
 7. Vídeo mostrando la solución: https://youtu.be/FjI1-xTmI34 
+Vídeo en Loom mostrando el flujo del cajero: https://www.loom.com/share/75099cab6f484f63bab1253e6a673d00
 
 
 
